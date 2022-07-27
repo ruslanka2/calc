@@ -34,4 +34,6 @@
 
 [Mi Notion](https://www.notion.so/Getting-Started-d05fba2aa47b4fc1a28fede85d990847)
 
+так же ссылки можно указывать в таком видел <https://link.ru/>
+
 ![akb](rabota.jpg)
